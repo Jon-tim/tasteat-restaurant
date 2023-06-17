@@ -8,7 +8,8 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: var(--font-cormorant);
+	font-weight: 700;
+	font-family: var(--cor);
 }
 
 p {

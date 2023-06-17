@@ -13,7 +13,7 @@ const cormorant = Cormorant_Infant({
 	subsets: ["latin"],
 	weight: ["400", "700"],
 	style: ["normal", "italic"],
-	variable: "--font-cormorant",
+	variable: "--cor",
 });
 
 export const metadata = {
